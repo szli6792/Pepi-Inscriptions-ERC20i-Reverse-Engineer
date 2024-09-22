@@ -1,0 +1,22 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'>
+<rect x='5' y='24' width='5' height='1' fill= '#000000'/>
+<rect x='5' y='25' width='4' height='1' fill= '#000000'/>
+<rect x='5' y='26' width='3' height='1' fill= '#000000'/>
+<rect x='6' y='27' width='2' height='1' fill= '#000000'/>
+<rect x='8' y='23' width='5' height='1' fill= '#000000'/>
+<rect x='8' y='28' width='4' height='1' fill= '#000000'/>
+<rect x='8' y='29' width='3' height='3' fill= '#000000'/>
+<rect x='9' y='26' width='3' height='2' fill= '#000000'/>
+<rect x='10' y='25' width='8' height='1' fill= '#000000'/>
+<rect x='11' y='24' width='5' height='1' fill= '#000000'/>
+<rect x='12' y='29' width='10' height='1' fill= '#000000'/>
+<rect x='12' y='30' width='11' height='2' fill= '#000000'/>
+<rect x='13' y='26' width='8' height='2' fill= '#000000'/>
+<rect x='13' y='28' width='9' height='1' fill= '#000000'/>
+<rect x='19' y='24' width='1' height='2' fill= '#000000'/>
+<rect x='8' y='26' width='1' height='2' fill= '#fcfefb'/>
+<rect x='9' y='25' width='1' height='1' fill= '#fcfefb'/>
+<rect x='10' y='24' width='1' height='1' fill= '#fcfefb'/>
+<rect x='11' y='29' width='1' height='3' fill= '#fcfefb'/>
+<rect x='12' y='26' width='1' height='3' fill= '#fcfefb'/>
+</svg>
